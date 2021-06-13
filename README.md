@@ -34,4 +34,3 @@
 ● test_ex.py : [pyworks_python_book]폴더
 
 ● test_ex..ipynb : [pyworks_python_book_jn]폴더
-
